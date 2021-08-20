@@ -13,13 +13,14 @@
 
 **Profesor** Jossue Emmanuel Fuentes
 
-Índice 
+## Indice
 
 - Portada
 - Anteportada
 - Índice
 - Objetivos
-- Batabit
+- Conclusión
+- Trabajo
   -  Batatabit / teléfono
   -  Batatabit / versión tablet
   -  Batatabit / versión computadora
@@ -31,6 +32,12 @@
 2. Comprender de mejor manera las explicaciones del profesor y seguir sus recomendaciones.
 
 3. Adquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
+
+## Conclusión
+Fue todo un reto elaborar este codigo ya que era para 3 plataformas diferentes y el codigo tiene que ser perfecto
+ya que una equivocación puede arruinarte todo pero se logro
+
+
 
 ## Trabajo
 
