@@ -38,6 +38,15 @@ Fue todo un reto elaborar este codigo ya que era para 3 plataformas diferentes y
 ya que una equivocación puede arruinarte todo pero se logro
 
 
+## Objetivos a futuros
+
+1.  Comparar cada uno de los temas vistos y ver si pueden tener alguna relación que me ayude en el proceso.
+
+2. Manejar los temas vistos con una mejor facilidad por medio de herramientas dadas por el profesor.
+
+3. Practicar de alguna manera los temas vistos y no solo dejarlo en la teoria
+
+
 
 ## Trabajo
 
