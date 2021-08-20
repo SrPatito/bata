@@ -36,3 +36,8 @@
 
 Lo que se trabajo en este proyecto del tercer periodo fue una pagina responsibe en codigo HTML Y CSS el cual fue llamado batabit y tuvimos que adapatarlo a diferentes platarmas las cuales eran: escritorio, teléfono y tablet.
 
+
+https://srpatito.github.io/batabit-tableta/
+
+https://srpatito.github.io/bata/
+
